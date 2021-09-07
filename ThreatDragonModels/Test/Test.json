@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test",
+    "owner": "Bart"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
